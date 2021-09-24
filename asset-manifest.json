@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jelig/static/css/main.98c6db93.chunk.css",
+    "main.css": "/Jelig/static/css/main.003bdef9.chunk.css",
     "main.js": "/Jelig/static/js/main.a41a250a.chunk.js",
     "main.js.map": "/Jelig/static/js/main.a41a250a.chunk.js.map",
     "runtime-main.js": "/Jelig/static/js/runtime-main.e2f3712b.js",
@@ -10,7 +10,7 @@
     "static/js/3.4699c4f4.chunk.js": "/Jelig/static/js/3.4699c4f4.chunk.js",
     "static/js/3.4699c4f4.chunk.js.map": "/Jelig/static/js/3.4699c4f4.chunk.js.map",
     "index.html": "/Jelig/index.html",
-    "static/css/main.98c6db93.chunk.css.map": "/Jelig/static/css/main.98c6db93.chunk.css.map",
+    "static/css/main.003bdef9.chunk.css.map": "/Jelig/static/css/main.003bdef9.chunk.css.map",
     "static/js/2.8ad84a20.chunk.js.LICENSE.txt": "/Jelig/static/js/2.8ad84a20.chunk.js.LICENSE.txt",
     "static/media/img1.98ae4e7c.JPG": "/Jelig/static/media/img1.98ae4e7c.JPG",
     "static/media/img1.dddd29a1.jpeg": "/Jelig/static/media/img1.dddd29a1.jpeg",
@@ -67,7 +67,7 @@
   "entrypoints": [
     "static/js/runtime-main.e2f3712b.js",
     "static/js/2.8ad84a20.chunk.js",
-    "static/css/main.98c6db93.chunk.css",
+    "static/css/main.003bdef9.chunk.css",
     "static/js/main.a41a250a.chunk.js"
   ]
 }
